@@ -1,0 +1,118 @@
+.btn{
+  cursor: pointer;
+}
+.icon-close {
+  right: 0rem;
+  top: 1.8rem;
+  transition: right .6s ease-in-out;
+  cursor: pointer;
+}
+
+a,
+label,
+p {
+  color: black;
+}
+label {
+  font-weight: 600;
+}
+.has-error .help-block {
+  color: white; 
+  text-align: center;
+}
+
+.toggle-form {
+  right: -9999px;
+  position: fixed;
+  top: 0;
+ 
+  height: 100%;
+  z-index: 9999;
+  transition: right 2s ease-in-out;
+}
+.toggle-form.active {
+    right: 0;
+}
+.toggle-form .formwrap img {
+    width: 15px;
+}
+.orange {
+    background-color: #ff910e;
+    border-color: #ff910e;
+    color: #fff;
+    padding: .5rem 2rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: 2rem;
+}
+.btn.orange:hover {
+    background-color: #f37231;
+    border-color: #da7600;
+    color: #fff;
+}
+.form-control {
+    display: block;
+   
+    width: 100%;
+    padding: .5rem .75rem;
+    font-size: .9rem;
+    line-height: 1.25;
+    
+    background-color: #fff;
+    background-image: none;
+    background-clip: padding-box;
+    border: 1px solid rgba(0,0,0,.15);
+    border-radius: 1.5rem;
+    transition: border-color ease-in-out .4s,box-shadow ease-in-out .4s;
+}
+    
+   .formwrap px-4::placeholder { 
+        
+        /* Firefox, Chrome, Opera */ 
+        color: white; 
+    } 
+    ::-webkit-input-placeholder {
+   color: red;
+}
+.formwrap {
+    background-color: #da6f24;
+    max-width: 800px;
+    margin-top: 85px;
+    border-radius: 5px 60px 5px 60px;
+    float: right;
+    box-shadow: -1px 0px 12px rgba(0, 0, 0, 0.1);
+    border: 5px solid #0C5ADB;
+    background-image: linear-gradient(to right, #ff9143, #f56a08);
+}
+.formwrap form input, .formwrap form input:focus {
+    background-color: transparent;
+   
+    color:white;
+    margin-right: 10px;
+}
+
+.mid-col {
+  max-width: 100%;
+  flex: 0 0 100%;
+  -ms-flex: 0 0 100%;
+}
+.form-control {
+        background-color: transparent;
+        border-color: #fff;
+        color: #fff;
+        margin-right: 10px;
+ }
+select.form-control:not([size]):not([multiple]) {
+  background-color: transparent;
+  border-color: #fff;
+  color: #fff;
+}
+option {
+  background-color: #fff;
+  color: #1f2124;
+}
+@media (max-width: 575px) {
+  .formwrap{
+    width: 100%
+  }
+}
