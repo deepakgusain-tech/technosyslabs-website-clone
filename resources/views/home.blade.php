@@ -197,8 +197,7 @@
                                                                         facilitate extensive, platform-driven
                                                                         transformations.
                                                                     </rs-layer>
-                                                                    <!--
-             -->
+                                                                   
                                                                     <rs-layer id="slider-21-slide-33-layer-3"
                                                                         data-type="text" data-rsp_ch="on"
                                                                         data-xy="yo:164px,156px,138px,129px;"
