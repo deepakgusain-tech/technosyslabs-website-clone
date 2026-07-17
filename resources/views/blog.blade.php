@@ -43,10 +43,10 @@
                                                                     <div
                                                                         class="rt-img-holder tpg-el-image-wrap has-thumbnail">
                                                                         <a data-id="162"
-                                                                            href="#"
+                                                                            href="/blog/why-continuous-erp-change-requires-continuous-testing"
                                                                             class="tpg-post-link" target="_self">
                                                                             <img fetchpriority="high" decoding="async"
-                                                                                src="wp-content/uploads/2026/03/Why-Continuous-ERP-Change-Requires-.jpg"
+                                                                                src="/wp-content/uploads/2026/03/Why-Continuous-ERP-Change-Requires-.jpg"
                                                                                 class="rt-img-responsive" width="390"
                                                                                 height="290"
                                                                                 alt="Why Continuous ERP Change Requires Continuous Testing">
@@ -59,7 +59,7 @@
 
                                                                     <div class="entry-title-wrapper">
                                                                         <h3 class="entry-title"><a data-id="162"
-                                                                                href="#"
+                                                                                href="/blog/why-continuous-erp-change-requires-continuous-testing"
                                                                                 class="tpg-post-link" target="_self">Why
                                                                                 Continuous ERP
                                                                                 Change Requires Continuous
@@ -99,7 +99,7 @@
                                                                         <div class="post-footer">
                                                                             <div class="read-more">
                                                                                 <a data-id="162"
-                                                                                    href="#"
+                                                                                    href="/blog/why-continuous-erp-change-requires-continuous-testing"
                                                                                     class="tpg-post-link"
                                                                                     target="_self">Read More</a>
                                                                             </div>
@@ -115,10 +115,10 @@
                                                                     <div
                                                                         class="rt-img-holder tpg-el-image-wrap has-thumbnail">
                                                                         <a data-id="141"
-                                                                            href="#"
+                                                                            href="/blog/how-erp-partners-can-improve-margins-with-external-testing"
                                                                             class="tpg-post-link" target="_self">
                                                                             <img decoding="async"
-                                                                                src="wp-content/uploads/2025/12/enterprise-resource-planning-holographic-interface-1.jpg"
+                                                                                src="/wp-content/uploads/2025/12/enterprise-resource-planning-holographic-interface-1.jpg"
                                                                                 class="rt-img-responsive" width="390"
                                                                                 height="290"
                                                                                 alt="How ERP Partners Can Improve Margins with External Testing">
@@ -131,7 +131,7 @@
 
                                                                     <div class="entry-title-wrapper">
                                                                         <h3 class="entry-title"><a data-id="141"
-                                                                                href="#"
+                                                                                href="/blog/how-erp-partners-can-improve-margins-with-external-testing"
                                                                                 class="tpg-post-link" target="_self">How
                                                                                 ERP Partners Can
                                                                                 Improve Margins with External
@@ -171,7 +171,7 @@
                                                                         <div class="post-footer">
                                                                             <div class="read-more">
                                                                                 <a data-id="141"
-                                                                                    href="#"
+                                                                                    href="/blog/how-erp-partners-can-improve-margins-with-external-testing"
                                                                                     class="tpg-post-link"
                                                                                     target="_self">Read More</a>
                                                                             </div>
@@ -187,10 +187,10 @@
                                                                     <div
                                                                         class="rt-img-holder tpg-el-image-wrap has-thumbnail">
                                                                         <a data-id="71"
-                                                                            href="#"
+                                                                            href="/blog/embracing-the-future-digital-workforce-robotic-process-automation-rpa-in-2023-and-beyond"
                                                                             class="tpg-post-link" target="_self">
                                                                             <img decoding="async"
-                                                                                src="wp-content/uploads/2024/05/blog1-390x290-1.jpg"
+                                                                                src="/wp-content/uploads/2024/05/blog1-390x290-1.jpg"
                                                                                 class="rt-img-responsive" width="390"
                                                                                 height="290"
                                                                                 alt="Embracing the Future Digital Workforce: Robotic Process Automation (RPA) in 2023 and Beyond">
@@ -203,7 +203,7 @@
 
                                                                     <div class="entry-title-wrapper">
                                                                         <h3 class="entry-title"><a data-id="71"
-                                                                                href="#"
+                                                                                href="/blog/embracing-the-future-digital-workforce-robotic-process-automation-rpa-in-2023-and-beyond"
                                                                                 class="tpg-post-link"
                                                                                 target="_self">Embracing the Future
                                                                                 Digital Workforce: Robotic Process
@@ -244,7 +244,7 @@
                                                                         <div class="post-footer">
                                                                             <div class="read-more">
                                                                                 <a data-id="71"
-                                                                                    href="#"
+                                                                                    href="/blog/embracing-the-future-digital-workforce-robotic-process-automation-rpa-in-2023-and-beyond"
                                                                                     class="tpg-post-link"
                                                                                     target="_self">Read More</a>
                                                                             </div>
@@ -260,10 +260,10 @@
                                                                     <div
                                                                         class="rt-img-holder tpg-el-image-wrap has-thumbnail">
                                                                         <a data-id="78"
-                                                                            href="#"
+                                                                            href="/blog/navigating-the-terrain-of-generative-ai-risk-and-governance"
                                                                             class="tpg-post-link" target="_self">
                                                                             <img loading="lazy" decoding="async"
-                                                                                src="wp-content/uploads/2024/05/blog06-390x290-1.jpg"
+                                                                                src="/wp-content/uploads/2024/05/blog06-390x290-1.jpg"
                                                                                 class="rt-img-responsive" width="390"
                                                                                 height="290"
                                                                                 alt="Navigating the Terrain of Generative AI Risk and Governance">
@@ -276,7 +276,7 @@
 
                                                                     <div class="entry-title-wrapper">
                                                                         <h3 class="entry-title"><a data-id="78"
-                                                                                href="#"
+                                                                                href="/blog/navigating-the-terrain-of-generative-ai-risk-and-governance"
                                                                                 class="tpg-post-link"
                                                                                 target="_self">Navigating the
                                                                                 Terrain of Generative AI Risk and
@@ -316,7 +316,7 @@
                                                                         <div class="post-footer">
                                                                             <div class="read-more">
                                                                                 <a data-id="78"
-                                                                                    href="#"
+                                                                                    href="/blog/navigating-the-terrain-of-generative-ai-risk-and-governance"
                                                                                     class="tpg-post-link"
                                                                                     target="_self">Read More</a>
                                                                             </div>
@@ -332,10 +332,10 @@
                                                                     <div
                                                                         class="rt-img-holder tpg-el-image-wrap has-thumbnail">
                                                                         <a data-id="73"
-                                                                            href="#"
+                                                                            href="/blog/identifying-and-addressing-gaps-in-your-cybersecurity-infrastructure"
                                                                             class="tpg-post-link" target="_self">
                                                                             <img loading="lazy" decoding="async"
-                                                                                src="wp-content/uploads/2024/05/blog01-390x290-1.jpg"
+                                                                                src="/wp-content/uploads/2024/05/blog01-390x290-1.jpg"
                                                                                 class="rt-img-responsive" width="390"
                                                                                 height="290"
                                                                                 alt="Identifying and Addressing Gaps in Your Cybersecurity Infrastructure">
@@ -348,7 +348,7 @@
 
                                                                     <div class="entry-title-wrapper">
                                                                         <h3 class="entry-title"><a data-id="73"
-                                                                                href="#"
+                                                                                href="/blog/identifying-and-addressing-gaps-in-your-cybersecurity-infrastructure"
                                                                                 class="tpg-post-link"
                                                                                 target="_self">Identifying and
                                                                                 Addressing Gaps in Your
@@ -389,7 +389,7 @@
                                                                         <div class="post-footer">
                                                                             <div class="read-more">
                                                                                 <a data-id="73"
-                                                                                    href="#"
+                                                                                    href="/blog/identifying-and-addressing-gaps-in-your-cybersecurity-infrastructure"
                                                                                     class="tpg-post-link"
                                                                                     target="_self">Read More</a>
                                                                             </div>
@@ -405,10 +405,10 @@
                                                                     <div
                                                                         class="rt-img-holder tpg-el-image-wrap has-thumbnail">
                                                                         <a data-id="75"
-                                                                            href="#"
+                                                                            href="/blog/navigating-disaster-recovery-strategies-in-business-evaluating-methods-advantages-and-challenges"
                                                                             class="tpg-post-link" target="_self">
                                                                             <img loading="lazy" decoding="async"
-                                                                                src="wp-content/uploads/2024/05/b1.png"
+                                                                                src="/wp-content/uploads/2024/05/b1.png"
                                                                                 class="rt-img-responsive" width="390"
                                                                                 height="290"
                                                                                 alt="Navigating Disaster Recovery Strategies in Business: Evaluating Methods, Advantages, and Challenges">
@@ -421,7 +421,7 @@
 
                                                                     <div class="entry-title-wrapper">
                                                                         <h3 class="entry-title"><a data-id="75"
-                                                                                href="#"
+                                                                                href="/blog/navigating-disaster-recovery-strategies-in-business-evaluating-methods-advantages-and-challenges"
                                                                                 class="tpg-post-link"
                                                                                 target="_self">Navigating Disaster
                                                                                 Recovery Strategies in Business:
@@ -462,7 +462,7 @@
                                                                         <div class="post-footer">
                                                                             <div class="read-more">
                                                                                 <a data-id="75"
-                                                                                    href="#"
+                                                                                    href="/blog/navigating-disaster-recovery-strategies-in-business-evaluating-methods-advantages-and-challenges"
                                                                                     class="tpg-post-link"
                                                                                     target="_self">Read More</a>
                                                                             </div>
@@ -478,10 +478,10 @@
                                                                     <div
                                                                         class="rt-img-holder tpg-el-image-wrap has-thumbnail">
                                                                         <a data-id="67"
-                                                                            href="#"
+                                                                            href="/blog/crafting-comprehensive-cybersecurity-training-tailoring-strategies-for-diverse-employee-levels"
                                                                             class="tpg-post-link" target="_self">
                                                                             <img loading="lazy" decoding="async"
-                                                                                src="wp-content/uploads/2024/05/blog1-390x290-1.png"
+                                                                                src="/wp-content/uploads/2024/05/blog1-390x290-1.png"
                                                                                 class="rt-img-responsive" width="390"
                                                                                 height="290"
                                                                                 alt="Crafting Comprehensive Cybersecurity Training: Tailoring Strategies for Diverse Employee Levels">
@@ -494,7 +494,7 @@
 
                                                                     <div class="entry-title-wrapper">
                                                                         <h3 class="entry-title"><a data-id="67"
-                                                                                href="#"
+                                                                                href="/blog/crafting-comprehensive-cybersecurity-training-tailoring-strategies-for-diverse-employee-levels"
                                                                                 class="tpg-post-link"
                                                                                 target="_self">Crafting
                                                                                 Comprehensive Cybersecurity
@@ -535,7 +535,7 @@
                                                                         <div class="post-footer">
                                                                             <div class="read-more">
                                                                                 <a data-id="67"
-                                                                                    href="#"
+                                                                                    href="/blog/crafting-comprehensive-cybersecurity-training-tailoring-strategies-for-diverse-employee-levels"
                                                                                     class="tpg-post-link"
                                                                                     target="_self">Read More</a>
                                                                             </div>

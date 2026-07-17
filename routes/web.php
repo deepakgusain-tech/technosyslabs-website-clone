@@ -146,7 +146,43 @@ Route::prefix('/projects')->group(function () {
     });
 });
 
-Route::get('/blog', function () {
-    return view('blog');
-});
 
+
+Route::prefix('/blog')->group(function () {
+
+    Route::get('/', function () {
+        return view('blog');
+    });
+
+    Route::get('/why-continuous-erp-change-requires-continuous-testing', function () {
+        return view('why-continuous-erp-change-requires-continuous-testing');
+    });
+
+    Route::get('/how-erp-partners-can-improve-margins-with-external-testing', function () {
+        return view('how-erp-partners-can-improve-margins-with-external-testing');
+    });
+
+    Route::get('/crafting-comprehensive-cybersecurity-training-tailoring-strategies-for-diverse-employee-levels', function () {
+        return view('crafting-comprehensive-cybersecurity-training-tailoring-strategies-for-diverse-employee-levels');
+    });
+
+    Route::get('/navigating-disaster-recovery-strategies-in-business-evaluating-methods-advantages-and-challenges', function () {
+        return view('navigating-disaster-recovery-strategies-in-business-evaluating-methods-advantages-and-challenges');
+    });
+
+    Route::get('/identifying-and-addressing-gaps-in-your-cybersecurity-infrastructure', function () {
+        return view('identifying-and-addressing-gaps-in-your-cybersecurity-infrastructure');
+    });
+
+    Route::get('/navigating-the-terrain-of-generative-ai-risk-and-governance', function () {
+        return view('navigating-the-terrain-of-generative-ai-risk-and-governance');
+    });
+
+    Route::get('/embracing-the-future-digital-workforce-robotic-process-automation-rpa-in-2023-and-beyond', function () {
+        return view('embracing-the-future-digital-workforce-robotic-process-automation-rpa-in-2023-and-beyond');
+    });
+
+    Route::get('/how-erp-partners-can-improve-margins-with-external-testing', function () {
+        return view('how-erp-partners-can-improve-margins-with-external-testing');
+    });
+});

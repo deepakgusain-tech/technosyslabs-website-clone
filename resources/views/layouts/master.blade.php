@@ -21,11 +21,11 @@
     <link rel="alternate" type="application/rss+xml" title="Techno » Feed" href="#" />
     <link rel="alternate" type="application/rss+xml" title="Techno » Comments Feed" href="#" />
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" rel="stylesheet" />
-    <link href="wp-content/slide-out-form.css" rel="stylesheet" type="text/css" />
+    <link href="/wp-content/slide-out-form.css" rel="stylesheet" type="text/css" />
     <script src="https://code.jquery.com/jquery-3.2.1.min.js" type="text/javascript"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" type="text/javascript">
     </script>
-    <script src="wp-content/slide-out-form.js" type="text/javascript"></script>
+    <script src="/wp-content/slide-out-form.js" type="text/javascript"></script>
     <script type="text/javascript">
         /* <![CDATA[ */
         window._wpemojiSettings = {
@@ -666,11 +666,11 @@
         type="text/css" media="all" />
     <link rel="stylesheet" href="/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css"
         type="text/css" media="all" />
-    <link rel="stylesheet" href="wp-content/uploads/elementor/css/custom-frontend.min.css" type="text/css"
+    <link rel="stylesheet" href="/wp-content/uploads/elementor/css/custom-frontend.min.css" type="text/css"
         media="all" />
     <link rel="stylesheet" href="/wp-content/plugins/elementor/assets/lib/swiper/css/swiper.min.css" type="text/css"
         media="all" />
-    <link rel="stylesheet" href="wp-content/uploads/elementor/css/post-9.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="/wp-content/uploads/elementor/css/post-9.css" type="text/css" media="all" />
     <link rel="stylesheet" href="/wp-content/plugins/dreamit-elementor-extension/assets/css/widgets-style.css"
         type="text/css" media="all" />
     <link rel="stylesheet" href="/wp-content/plugins/dreamit-elementor-extension/assets/css/flaticon.css"
@@ -681,12 +681,12 @@
         type="text/css" media="all" />
     <link rel="stylesheet" href="/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css"
         type="text/css" media="all" />
-    <link rel="stylesheet" href="wp-content/uploads/elementor/css/post-7.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="/wp-content/uploads/elementor/css/post-7.css" type="text/css" media="all" />
     <link rel="stylesheet" href="/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css"
         type="text/css" media="all" />
-    <link rel="stylesheet" href="wp-content/uploads/elementor/css/post-10450.css" type="text/css" media="all" />
-    <link rel="stylesheet" href="wp-content/uploads/maxmegamenu/style.css" type="text/css" media="all" />
-    <link rel="stylesheet" href="wp-includes/css/dashicons.min.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="/wp-content/uploads/elementor/css/post-10450.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="/wp-content/uploads/maxmegamenu/style.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="/wp-includes/css/dashicons.min.css" type="text/css" media="all" />
     <style id='dashicons-inline-css' type='text/css'>
         [data-font="Dashicons"]:before {
             font-family: 'Dashicons' !important;
@@ -757,6 +757,11 @@
         media="all" />
     <link rel="stylesheet" href="/wp-content/themes/techno/assets/css/em-breadcrumb.css" type="text/css"
         media="all" />
+
+    <link rel='stylesheet' id='rt-fontawsome-css' href='/wp-content/plugins/the-post-grid/assets/vendor/font-awesome/css/font-awesome.min.css?ver=7.7.2' media='all' />
+<link rel='stylesheet' id='rt-tpg-css' href='/wp-content/plugins/the-post-grid/assets/css/thepostgrid.min.css?ver=7.7.2' media='all' />
+<link rel='stylesheet' id='generate-style-css' href='/wp-content/themes/generatepress/assets/css/main.min.css?ver=3.4.0' media='all' />
+
     <style id='techno-breadcrumb-inline-css' type='text/css'>
         .logo img {
             ;
@@ -1844,6 +1849,11 @@
             display: block;
         }
 
+        .elementor-icon i::before, .elementor-icon svg::before {
+            left: 101% !important;
+            top: 52%;
+        }
+
         /*# sourceURL=generate-style-inline-css */
     </style>
 
@@ -1853,6 +1863,9 @@
         href='/wp-content/uploads/elementor/css/post-251639.css?ver=1782247367' media='all' />
     <link rel='stylesheet' id='elementor-post-59-css'
         href='/wp-content/uploads/elementor/css/post-598cd1.css?ver=1782247369' media='all' />
+
+     <script id="jquery-core-js" src="/wp-includes/js/jquery/jquery.minf43b.js?ver=3.7.1"></script>
+    <script id="jquery-migrate-js" src="/wp-includes/js/jquery/jquery-migrate.min5589.js?ver=3.4.1"></script>
 </head>
 <!-- Whatsapp Sticky -->
 <div class="sn_whatsup">
@@ -1877,7 +1890,7 @@
                                 <i class="fa fa-envelope-o"></i><a href="mailto:info@technosyslabs.com"
                                     id="Literal1">info@technosyslabs.com</a>
                                 <!-- Address -->
-                                <i class="fa fa-map"></i><span id="Literal2">Gurugram, Haryana - 122002</span>
+                                <i class="fa fa-map"></i><span id="Literal2">30 N Gould St, Ste R, Sheridan, Wyoming 82801</span>
                                 <!-- Phone -->
                                 <i class="fa fa-phone"></i><a href="tel:919220437682" id="Literal3">+91
                                     9220437682</a>
@@ -2620,25 +2633,11 @@
                                                                                 <p
                                                                                     style="box-sizing: border-box; margin: 0px; font-family: Muli, sans-serif; font-size: 16px;">
                                                                                     <span
-                                                                                        style="box-sizing: border-box; font-size: medium;">AltF
-                                                                                        Global Business Park, MR1, 7th
-                                                                                        Floor, Tower D, Mehrauli,
-                                                                                        Gurugram, Haryana-122002</span>
+                                                                                        style="box-sizing: border-box; font-size: medium;">
+                                                                                        30 N Gould St, Ste R, Sheridan, Wyoming 82801
+                                                                                        </span>
                                                                                 </p>
-                                                                                <p
-                                                                                    style="box-sizing: border-box; margin: 0px; font-family: Muli, sans-serif; font-size: 16px;">
-                                                                                    &nbsp;
-                                                                                </p>
-                                                                                <p
-                                                                                    style="box-sizing: border-box; margin: 0px; font-family: Muli, sans-serif; font-size: 16px;">
-                                                                                    <span
-                                                                                        style="box-sizing: border-box; font-size: medium;">UK
-                                                                                        Office
-                                                                                        Address:&nbsp;&nbsp;</span><span
-                                                                                        style="box-sizing: border-box; font-size: medium;">517
-                                                                                        The Blenheim Center Prince
-                                                                                        Regent Road, TW3 1ND UK</span>
-                                                                                </p>
+                                                                
                                                                                 </p>
                                                                         </span>
                                                                     </div>

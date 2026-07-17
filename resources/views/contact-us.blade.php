@@ -252,23 +252,10 @@
                                                                         style="box-sizing: border-box; margin: 0px; font-family: Muli, sans-serif; font-size: 16px;">
                                                                         <span
                                                                             style="box-sizing: border-box; font-size: medium;">AltF
-                                                                            Global Business Park, MR1, 7th Floor,
-                                                                            Tower D, Mehrauli, Gurugram,
-                                                                            Haryana-122002</span>
+                                                                            30 N Gould St, Ste R, Sheridan, Wyoming 82801
+                                                                            </span>
                                                                     </p>
-                                                                    <p
-                                                                        style="box-sizing: border-box; margin: 0px; font-family: Muli, sans-serif; font-size: 16px;">
-                                                                        &nbsp;</p>
-                                                                    <p
-                                                                        style="box-sizing: border-box; margin: 0px; font-family: Muli, sans-serif; font-size: 16px;">
-                                                                        <span
-                                                                            style="box-sizing: border-box; font-size: medium;">UK
-                                                                            Office Address:&nbsp;&nbsp;</span><span
-                                                                            style="box-sizing: border-box; font-size: medium;">517
-                                                                            The Blenheim Center Prince Regent Road,
-                                                                            TW3 1ND UK</span>
-                                                                    </p>
-                                                                    </p>
+                                                    
 
                                                             </div>
                                                         </div>
