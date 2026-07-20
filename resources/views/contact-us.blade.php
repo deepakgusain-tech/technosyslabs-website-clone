@@ -252,7 +252,7 @@
                                                                         style="box-sizing: border-box; margin: 0px; font-family: Muli, sans-serif; font-size: 16px;">
                                                                         <span
                                                                             style="box-sizing: border-box; font-size: medium;">AltF
-                                                                            30 N Gould St, Ste R, Sheridan, Wyoming 82801
+                                                                            AltF 30 N Gould St, Ste R, Sheridan, Wyoming, USA 82801
                                                                             </span>
                                                                     </p>
                                                     

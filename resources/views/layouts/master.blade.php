@@ -1883,14 +1883,14 @@
                 <!-- STYLE 1 LEFT ADDRESS RIGHT ICON  -->
                 <div class="row">
                     <!-- TOP LEFT -->
-                    <div class="col-xs-12 col-md-8 col-sm-8">
+                    <div class="col-xs-12 col-md-9 col-sm-9">
                         <div class="top-address" id="Div1">
                             <p>
                                 <!-- Email -->
-                                <i class="fa fa-envelope-o"></i><a href="mailto:info@Techsys Technologieslabs.com"
-                                    id="Literal1">info@Techsys Technologieslabs.com</a>
+                                <i class="fa fa-envelope-o"></i><a href="mailto:info@technosyslabs.com"
+                                    id="Literal1">info@technosyslabs.com</a>
                                 <!-- Address -->
-                                <i class="fa fa-map"></i><span id="Literal2">Sheridan, Wyoming 82801</span>
+                                <i class="fa fa-map"></i><span id="Literal2">AltF 30 N Gould St, Ste R, Sheridan, Wyoming, USA 82801</span>
                                 <!-- Phone -->
                                 <i class="fa fa-phone"></i><a href="tel:919220437682" id="Literal3">+91
                                     9220437682</a>
@@ -1898,7 +1898,7 @@
                         </div>
                     </div>
                     <!-- TOP RIGHT -->
-                    <div class="col-xs-12 col-md-4 col-sm-4">
+                    <div class="col-xs-12 col-md-3 col-sm-3">
                         <div class="top-right-menu">
                             <ul class="social-icons text-right">
                                 <li><a class="facebook social-icon"
@@ -2634,7 +2634,7 @@
                                                                                     style="box-sizing: border-box; margin: 0px; font-family: Muli, sans-serif; font-size: 16px;">
                                                                                     <span
                                                                                         style="box-sizing: border-box; font-size: medium;">
-                                                                                        30 N Gould St, Ste R, Sheridan, Wyoming 82801
+                                                                                        AltF 30 N Gould St, Ste R, Sheridan, Wyoming, USA 82801
                                                                                         </span>
                                                                                 </p>
                                                                 
@@ -2665,7 +2665,7 @@
                                                                         <span>
                                                                             <dl>
                                                                                 <dt></dt>
-                                                                                <dd>info@Techsys Technologieslabs.com</dd>
+                                                                                <dd>info@technosyslabs.com</dd>
                                                                             </dl>
                                                                             </dl>
                                                                         </span>
