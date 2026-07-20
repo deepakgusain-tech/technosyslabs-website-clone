@@ -10,7 +10,7 @@
                 </div>
                 <!-- <p class="text-white mt-4 h3">Try Solodev for Free!</p>-->
 
-                <form method="post" action="https://www.technosyslabs.com/Services.aspx?s=5"
+                <form method="post" action="https://www.Techsys Technologieslabs.com/Services.aspx?s=5"
                     onsubmit="javascript:return WebForm_OnSubmit();" id="Enquiryform">
                     <div class="aspNetHidden">
                         <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
@@ -153,7 +153,7 @@
                             <h2 id="ContentPlaceHolder1_divhead">Cyber Security</h2>
                         </div>
                         <div class="breadcumb-inner">
-                            <p id="ContentPlaceHolder1_divpara">At Technosys Labs, we understand that in today
+                            <p id="ContentPlaceHolder1_divpara">At Techsys Technologies, we understand that in today
                                 interconnected digital landscape, cybersecurity is not just a necessity but a
                                 strategic imperative.</p>
                         </div>
@@ -241,7 +241,7 @@
                                                             style="text-align:justify">
                                                             <div id="ContentPlaceHolder1_divContent"
                                                                 class="kc-elm kc-css-486867 kc_text_block">
-                                                                <p>At Technosys Labs, we understand that in today
+                                                                <p>At Techsys Technologies, we understand that in today
                                                                     interconnected digital landscape, cybersecurity
                                                                     is not just a necessity but a strategic
                                                                     imperative. As a leading IT and Security
@@ -388,7 +388,7 @@
                                                                                 Management</h2>
                                                                         </div>
                                                                         <div class='service-box-desc'>
-                                                                            <p style='text-align:justify'>Technosys
+                                                                            <p style='text-align:justify'>Techsys Technologies
                                                                                 Labs employs cutting-edge tools and
                                                                                 methodologies to identify
                                                                                 vulnerabilities, assess potential
@@ -456,7 +456,7 @@
                                                                         <div class='service-box-desc'>
                                                                             <p style='text-align:justify'>Embrace a
                                                                                 Zero Trust Security model with
-                                                                                Technosys Labs to eliminate trust
+                                                                                Techsys Technologies to eliminate trust
                                                                                 assumptions within your network. Our
                                                                                 approach involves continuous
                                                                                 verification and validation of all
@@ -523,7 +523,7 @@
                                                                                 Operational Technology (OT) continue
                                                                                 to proliferate, securing these
                                                                                 interconnected devices is critical.
-                                                                                Technosys Labs offers specialized
+                                                                                Techsys Technologies offers specialized
                                                                                 security solutions to protect your
                                                                                 IoT and OT ecosystems from potential
                                                                                 vulnerabilities and attacks.</p>

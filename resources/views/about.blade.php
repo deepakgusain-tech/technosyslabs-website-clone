@@ -11,7 +11,7 @@
                 </div>
                 <!-- <p class="text-white mt-4 h3">Try Solodev for Free!</p>-->
 
-                <form method="post" action="https://www.technosyslabs.com/AboutUs.aspx"
+                <form method="post" action="https://www.Techsys Technologieslabs.com/AboutUs.aspx"
                     onsubmit="javascript:return WebForm_OnSubmit();" id="Enquiryform">
                     <div class="aspNetHidden">
                         <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
@@ -151,7 +151,7 @@
                 <div class="row">
                     <div class="col-md-12 txt  text-center ">
                         <div class="brpt ccase">
-                            <h2 class="text-left">About Technosys Labs</h2>
+                            <h2 class="text-left">About Techsys Technologies</h2>
                         </div>
                         <div class="breadcumb-inner">
                             <p> Our global consulting expertise is anchored in a profound understanding of dynamic
@@ -210,7 +210,7 @@
 
                                                     <h5 id="ContentPlaceHolder1_DivTagLine">Bridging the gaps</h5>
 
-                                                    <h3 id="ContentPlaceHolder1_DivTitle">Welcome To Technosys</h3>
+                                                    <h3 id="ContentPlaceHolder1_DivTitle">Welcome To Techsys Technologies</h3>
 
                                                     <h2><span></span></h2>
                                                     <div class="bar-main">
@@ -219,7 +219,7 @@
 
                                                     <p id="ContentPlaceHolder1_DivSubContents"
                                                         style="text-align:justify;font-size:18px;padding: 0 20px 0 0;">
-                                                    <p style="text-align: justify;">Technosys Labs, an ISO 27001 and
+                                                    <p style="text-align: justify;">Techsys Technologies, an ISO 27001 and
                                                         9001 company, aspires to be a trusted advisor in Digital
                                                         Transformation, Cyber Security, and Enterprise Application
                                                         Services. Our customer-centric approach, deep technical
@@ -231,7 +231,7 @@
                                                     <p style="text-align: justify;">We prioritize building a
                                                         passionate and self-driven team, recognizing our employees
                                                         as our greatest asset. Our culture fosters innovation,
-                                                        growth, and continuous learning. Technosys Labs thrives on
+                                                        growth, and continuous learning. Techsys Technologies thrives on
                                                         exploring new technologies and approaches, staying ahead of
                                                         the curve, and embracing out of the box thinking.</p>
                                                     <p style="text-align: justify;">Acknowledging the importance of
@@ -271,7 +271,7 @@
                                     <div class="breadcumb-inner">
                                         <p>"Empower our clients by delivering distinctive IT, Application and
                                             Cybersecurity Products and Services that not only meet but exceed their
-                                            aspirations, solidifying Technosys Labs as an indispensable partner in
+                                            aspirations, solidifying Techsys Technologies as an indispensable partner in
                                             their success journey."</p>
                                     </div>
                                 </div>
@@ -281,7 +281,7 @@
                                         <h3>Vision &nbsp;Statement</h3>
                                     </div>
                                     <div class="breadcumb-inner">
-                                        <p>"Harnessing innovation and collaboration, Technosys Labs envisions
+                                        <p>"Harnessing innovation and collaboration, Techsys Technologies envisions
                                             cutting-edge IT, Application and Security solutions, empowering
                                             businesses to seamlessly navigate the modern era of interconnected
                                             possibilities."</p>
@@ -714,7 +714,7 @@
                                                                 class='kc_accordion_content ui-accordion-content kc_clearfix'>
                                                                 <div class='kc-panel-body'>
                                                                     <div class='kc-elm kc-css-767221 kc_text_block'>
-                                                                        <p>At Technosys Labs, we understand that in
+                                                                        <p>At Techsys Technologies, we understand that in
                                                                             today's rapidly evolving digital
                                                                             landscape, businesses need strategic and
                                                                             innovative technology solutions to stay
@@ -747,7 +747,7 @@
                                                                 class='kc_accordion_content ui-accordion-content kc_clearfix'>
                                                                 <div class='kc-panel-body'>
                                                                     <div class='kc-elm kc-css-767221 kc_text_block'>
-                                                                        <p>At Technosys Labs, we understand the
+                                                                        <p>At Techsys Technologies, we understand the
                                                                             dynamic nature of the IT and Security
                                                                             industry, and we are committed to
                                                                             providing innovative and tailored
@@ -814,7 +814,7 @@
                                                                 class='kc_accordion_content ui-accordion-content kc_clearfix'>
                                                                 <div class='kc-panel-body'>
                                                                     <div class='kc-elm kc-css-767221 kc_text_block'>
-                                                                        <p>At Technosys Labs, we understand that the
+                                                                        <p>At Techsys Technologies, we understand that the
                                                                             digital landscape is rapidly evolving,
                                                                             and businesses need agile, scalable, and
                                                                             secure solutions to stay ahead.</p>
@@ -846,7 +846,7 @@
                                                                 class='kc_accordion_content ui-accordion-content kc_clearfix'>
                                                                 <div class='kc-panel-body'>
                                                                     <div class='kc-elm kc-css-767221 kc_text_block'>
-                                                                        <p>At Technosys Labs, we understand that in
+                                                                        <p>At Techsys Technologies, we understand that in
                                                                             today interconnected digital landscape,
                                                                             cybersecurity is not just a necessity
                                                                             but a strategic imperative.</p>
@@ -878,7 +878,7 @@
                                                                 class='kc_accordion_content ui-accordion-content kc_clearfix'>
                                                                 <div class='kc-panel-body'>
                                                                     <div class='kc-elm kc-css-767221 kc_text_block'>
-                                                                        <p>At Technosys Labs, we pride ourselves on
+                                                                        <p>At Techsys Technologies, we pride ourselves on
                                                                             delivering innovative, scalable, and
                                                                             secure Data Center Solutions that
                                                                             empower businesses to thrive in the
@@ -911,7 +911,7 @@
                                                                 class='kc_accordion_content ui-accordion-content kc_clearfix'>
                                                                 <div class='kc-panel-body'>
                                                                     <div class='kc-elm kc-css-767221 kc_text_block'>
-                                                                        <p>At Technosys Labs, we understand that a
+                                                                        <p>At Techsys Technologies, we understand that a
                                                                             seamless and secure IT infrastructure is
                                                                             crucial for the success of your
                                                                             business.</p>
@@ -943,7 +943,7 @@
                                                                 class='kc_accordion_content ui-accordion-content kc_clearfix'>
                                                                 <div class='kc-panel-body'>
                                                                     <div class='kc-elm kc-css-767221 kc_text_block'>
-                                                                        <p>At Technosys Labs, we specialize in
+                                                                        <p>At Techsys Technologies, we specialize in
                                                                             providing top-notch Application Support
                                                                             across a spectrum of platforms, ensuring
                                                                             that your critical business applications
@@ -977,7 +977,7 @@
                                                                 class='kc_accordion_content ui-accordion-content kc_clearfix'>
                                                                 <div class='kc-panel-body'>
                                                                     <div class='kc-elm kc-css-767221 kc_text_block'>
-                                                                        <p>Technosys Labs understands the critical
+                                                                        <p>Techsys Technologies understands the critical
                                                                             role databases play in your business
                                                                             operations. Our Database Management
                                                                             Services ensure the security,

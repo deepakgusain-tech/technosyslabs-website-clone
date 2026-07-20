@@ -157,7 +157,7 @@
                                 <h2 id="ContentPlaceHolder1_divhead">Enterprise Application</h2>
                             </div>
                             <div class="breadcumb-inner">
-                                <p id="ContentPlaceHolder1_divpara">At Technosys Labs, we specialize in providing
+                                <p id="ContentPlaceHolder1_divpara">At Techsys Technologies, we specialize in providing
                                     top-notch Application Support across a spectrum of platforms, ensuring that your
                                     critical business applications run smoothly and contribute to your overall success.
                                 </p>
@@ -248,7 +248,7 @@
                                                                 style="text-align:justify">
                                                                 <div id="ContentPlaceHolder1_divContent"
                                                                     class="kc-elm kc-css-486867 kc_text_block">
-                                                                    <p>At Technosys Labs, we specialize in providing
+                                                                    <p>At Techsys Technologies, we specialize in providing
                                                                         top-notch Application Support across a spectrum
                                                                         of platforms, ensuring that your critical
                                                                         business applications run smoothly and

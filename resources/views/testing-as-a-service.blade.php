@@ -10,7 +10,7 @@
                 </div>
                 <!-- <p class="text-white mt-4 h3">Try Solodev for Free!</p>-->
 
-                <form method="post" action="https://www.technosyslabs.com/Services.aspx?s=10"
+                <form method="post" action="https://www.Techsys Technologieslabs.com/Services.aspx?s=10"
                     onsubmit="javascript:return WebForm_OnSubmit();" id="Enquiryform">
                     <div class="aspNetHidden">
                         <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
@@ -248,7 +248,7 @@
                                                                         style="box-sizing: border-box; transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s, transform 0.4s; margin: 5px 0px 15px;">
                                                                         <p><span
                                                                                 style="color: black; text-align: justify; font-size: 16px;">Testing
-                                                                                as a Service (TaaS) from Technosys
+                                                                                as a Service (TaaS) from Techsys Technologies
                                                                                 Labs is purpose-built for system
                                                                                 integrators, implementation
                                                                                 partners, and service providers who
@@ -284,7 +284,7 @@
                                                                                 and tight delivery timelines.
                                                                                 Manual-heavy testing approaches
                                                                                 cannot scale with this pace.
-                                                                                Technosys Labs&rsquo; Testing as a
+                                                                                Techsys Technologies&rsquo; Testing as a
                                                                                 Service introduces an
                                                                                 automation-first, release-centric
                                                                                 quality layer that integrates into
@@ -403,7 +403,7 @@
                                                                             </p>
                                                                             <p
                                                                                 style="box-sizing: border-box; color: black; margin-top: 0px; margin-bottom: 1rem;">
-                                                                                Technosys Labs operates as a
+                                                                                Techsys Technologies operates as a
                                                                                 pre-production quality gate during
                                                                                 release preparation. Our release
                                                                                 testing validates functional
@@ -437,7 +437,7 @@
                                                                             </p>
                                                                             <p
                                                                                 style="box-sizing: border-box; color: black; margin-top: 0px; margin-bottom: 1rem;">
-                                                                                Partner with Technosys Labs to
+                                                                                Partner with Techsys Technologies to
                                                                                 establish an automation-led Testing
                                                                                 as a Service capability that
                                                                                 strengthens release governance and

@@ -10,7 +10,7 @@
                     </div>
                     <!-- <p class="text-white mt-4 h3">Try Solodev for Free!</p>-->
 
-                    <form method="post" action="https://www.technosyslabs.com/Services.aspx?s=6"
+                    <form method="post" action="https://www.Techsys Technologieslabs.com/Services.aspx?s=6"
                         onsubmit="javascript:return WebForm_OnSubmit();" id="Enquiryform">
                         <div class="aspNetHidden">
                             <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
@@ -157,7 +157,7 @@
                                 <h2 id="ContentPlaceHolder1_divhead">Data Center Solutions</h2>
                             </div>
                             <div class="breadcumb-inner">
-                                <p id="ContentPlaceHolder1_divpara">At Technosys Labs, we pride ourselves on delivering
+                                <p id="ContentPlaceHolder1_divpara">At Techsys Technologies, we pride ourselves on delivering
                                     innovative, scalable, and secure Data Center Solutions that empower businesses to
                                     thrive in the digital era.</p>
                             </div>
@@ -247,7 +247,7 @@
                                                                 style="text-align:justify">
                                                                 <div id="ContentPlaceHolder1_divContent"
                                                                     class="kc-elm kc-css-486867 kc_text_block">
-                                                                    <p>At Technosys Labs, we pride ourselves on
+                                                                    <p>At Techsys Technologies, we pride ourselves on
                                                                         delivering innovative, scalable, and secure Data
                                                                         Center Solutions that empower businesses to
                                                                         thrive in the digital era. Trust us to be your
@@ -338,7 +338,7 @@
                                                                             </div>
                                                                             <div class='service-box-desc'>
                                                                                 <p style='text-align:justify'>Our expert
-                                                                                    team at Technosys Labs provides
+                                                                                    team at Techsys Technologies provides
                                                                                     robust Network Management solutions
                                                                                     to optimize your network
                                                                                     infrastructure. From monitoring and
@@ -399,7 +399,7 @@
                                                                                 <h2>Data Center Optimization</h2>
                                                                             </div>
                                                                             <div class='service-box-desc'>
-                                                                                <p style='text-align:justify'>Technosys
+                                                                                <p style='text-align:justify'>Techsys Technologies
                                                                                     Labs specializes in Data Center
                                                                                     Optimization strategies that focus
                                                                                     on enhancing performance and
@@ -472,7 +472,7 @@
                                                                                 </h2>
                                                                             </div>
                                                                             <div class='service-box-desc'>
-                                                                                <p style='text-align:justify'>Technosys
+                                                                                <p style='text-align:justify'>Techsys Technologies
                                                                                     Labs offers fully Integrated Data
                                                                                     Center Solutions that bring together
                                                                                     the best of network management,

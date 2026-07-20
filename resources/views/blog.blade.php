@@ -13,7 +13,7 @@
                         <div class="inside-article">
 
                             <header class="entry-header">
-                                <h1 class="entry-title mb-4" itemprop="headline">Technosys Labs Blogs</h1>
+                                <h1 class="entry-title mb-4" itemprop="headline">Techsys Technologies Blogs</h1>
                             </header>
 
 

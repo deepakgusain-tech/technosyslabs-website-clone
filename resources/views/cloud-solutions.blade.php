@@ -153,7 +153,7 @@
                             <h2 id="ContentPlaceHolder1_divhead">Cloud Solutions</h2>
                         </div>
                         <div class="breadcumb-inner">
-                            <p id="ContentPlaceHolder1_divpara">At Technosys Labs, we understand that the digital
+                            <p id="ContentPlaceHolder1_divpara">At Techsys Technologies, we understand that the digital
                                 landscape is rapidly evolving, and businesses need agile, scalable, and secure
                                 solutions to stay ahead.</p>
                         </div>
@@ -241,7 +241,7 @@
                                                             style="text-align:justify">
                                                             <div id="ContentPlaceHolder1_divContent"
                                                                 class="kc-elm kc-css-486867 kc_text_block">
-                                                                <p>At Technosys Labs, we understand that the digital
+                                                                <p>At Techsys Technologies, we understand that the digital
                                                                     landscape is rapidly evolving, and businesses
                                                                     need agile, scalable, and secure solutions to
                                                                     stay ahead. Our comprehensive suite of Cloud
@@ -367,7 +367,7 @@
                                                                             <p style='text-align:justify'>Seamlessly
                                                                                 transition your applications, data,
                                                                                 and processes to the cloud with
-                                                                                Technosys Labs Cloud Migration
+                                                                                Techsys Technologies Cloud Migration
                                                                                 services. Our experienced team
                                                                                 ensures a smooth and efficient
                                                                                 migration, minimizing downtime and

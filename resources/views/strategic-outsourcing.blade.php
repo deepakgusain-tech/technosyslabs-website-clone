@@ -153,7 +153,7 @@
                             <h2 id="ContentPlaceHolder1_divhead">Strategic Outsourcing</h2>
                         </div>
                         <div class="breadcumb-inner">
-                            <p id="ContentPlaceHolder1_divpara">At Technosys Labs, we understand the dynamic nature
+                            <p id="ContentPlaceHolder1_divpara">At Techsys Technologies, we understand the dynamic nature
                                 of the IT and Security industry, and we are committed to providing innovative and
                                 tailored solutions to meet your business needs.</p>
                         </div>
@@ -241,7 +241,7 @@
                                                             style="text-align:justify">
                                                             <div id="ContentPlaceHolder1_divContent"
                                                                 class="kc-elm kc-css-486867 kc_text_block">
-                                                                <p> At Technosys Labs, we understand the dynamic
+                                                                <p> At Techsys Technologies, we understand the dynamic
                                                                     nature of the IT and Security industry, and
                                                                     we're committed to providing innovative and
                                                                     tailored solutions to meet your business needs.
@@ -330,7 +330,7 @@
                                                                         <div class='service-box-desc'>
                                                                             <p style='text-align:justify'>Augment
                                                                                 your team with skilled professionals
-                                                                                from Technosys Labs. Whether you
+                                                                                from Techsys Technologies. Whether you
                                                                                 require additional expertise for a
                                                                                 specific project or need to scale
                                                                                 your workforce quickly, our staff
@@ -395,7 +395,7 @@
                                                                             <p style='text-align:justify'>Ensure
                                                                                 project success with our
                                                                                 contract-based staffing solutions.
-                                                                                Technosys Labs offers a diverse
+                                                                                Techsys Technologies offers a diverse
                                                                                 range of IT and Security
                                                                                 professionals on a contractual
                                                                                 basis, allowing you to meet project
@@ -434,7 +434,7 @@
                                                                             <p style='text-align:justify'>Take your
                                                                                 business to new heights by
                                                                                 leveraging our comprehensive IT
-                                                                                outsourcing services. Technosys Labs
+                                                                                outsourcing services. Techsys Technologies
                                                                                 acts as an extension of your IT
                                                                                 department, handling everything from
                                                                                 infrastructure management to

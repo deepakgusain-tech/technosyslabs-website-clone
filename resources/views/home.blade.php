@@ -8,7 +8,7 @@
                     <img src="wp-content/images/cross.png" alt="Close Button" class="cross" />
                 </div>
                 <!-- <p class="text-white mt-4 h3">Try Solodev for Free!</p>-->
-                <form method="post" action="https://www.technosyslabs.com/" onsubmit="javascript:return WebForm_OnSubmit();"
+                <form method="post" action="https://www.Techsys Technologieslabs.com/" onsubmit="javascript:return WebForm_OnSubmit();"
                     id="Enquiryform">
                     <div class="aspNetHidden">
                         <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
@@ -804,7 +804,7 @@
                                             <div class="">
                                                 <div class="section-title t_left">
                                                     <h5 id="ContentPlaceHolder1_Tagline">Bridging the gaps</h5>
-                                                    <h3 id="ContentPlaceHolder1_DivTitle">Welcome To Technosys
+                                                    <h3 id="ContentPlaceHolder1_DivTitle">Welcome To Techsys Technologies
                                                     </h3>
                                                     <h2><span id="ContentPlaceHolder1_DivSubTitle">Introduction</span>
                                                     </h2>
@@ -813,7 +813,7 @@
                                                     </div>
                                                     <div id="ContentPlaceHolder1_DivContent"
                                                         style="text-align: justify; font-size: 18px; color: black; font-weight: 600">
-                                                        <p style="text-align: justify;">Technosys Labs, an ISO
+                                                        <p style="text-align: justify;">Techsys Technologies, an ISO
                                                             27001
                                                             and 9001 company, aspires to be a trusted advisor in
                                                             Digital Transformation, Cyber Security, and Enterprise
@@ -827,7 +827,7 @@
                                                         <p style="text-align: justify;">We prioritize building a
                                                             passionate and self-driven team, recognizing our
                                                             employees as our greatest asset. Our culture fosters
-                                                            innovation, growth, and continuous learning. Technosys
+                                                            innovation, growth, and continuous learning. Techsys Technologies
                                                             Labs thrives on exploring new technologies and
                                                             approaches, staying ahead of the curve, and embracing
                                                             out of the box thinking.</p>
@@ -907,7 +907,7 @@
                                                                                     </div>
                                                                                     <div class='front-desc-part'>
                                                                                         <p class='front-desc'>At
-                                                                                            Technosys Labs, we
+                                                                                            Techsys Technologies, we
                                                                                             understand that in
                                                                                             today's rapidly evolving
                                                                                             digital landscape,
@@ -974,7 +974,7 @@
                                                                                     </div>
                                                                                     <div class='front-desc-part'>
                                                                                         <p class='front-desc'>At
-                                                                                            Technosys Labs, we
+                                                                                            Techsys Technologies, we
                                                                                             understand the dynamic
                                                                                             nature of the IT and
                                                                                             Security industry, and
@@ -1043,7 +1043,7 @@
                                                                                     </div>
                                                                                     <div class='front-desc-part'>
                                                                                         <p class='front-desc'>At
-                                                                                            Technosys Labs, we
+                                                                                            Techsys Technologies, we
                                                                                             specialize in providing
                                                                                             top-notch Application
                                                                                             Support across a
@@ -1118,7 +1118,7 @@
                                                                                     </div>
                                                                                     <div class='front-desc-part'>
                                                                                         <p class='front-desc'>At
-                                                                                            Technosys Labs, we
+                                                                                            Techsys Technologies, we
                                                                                             understand that the
                                                                                             digital landscape is
                                                                                             rapidly evolving, and
@@ -1183,7 +1183,7 @@
                                                                                     </div>
                                                                                     <div class='front-desc-part'>
                                                                                         <p class='front-desc'>At
-                                                                                            Technosys Labs, we
+                                                                                            Techsys Technologies, we
                                                                                             understand that in today
                                                                                             interconnected digital
                                                                                             landscape, cybersecurity
@@ -1315,7 +1315,7 @@
                                                 Alliances
                                             </h2>
                                             <br />
-                                            <p>Choose Technosys Labs for Application Support that goes beyond the
+                                            <p>Choose Techsys Technologies for Application Support that goes beyond the
                                                 ordinary. Our commitment to excellence is reflected in our
                                                 comprehensive Application Support offerings, designed to empower
                                                 your business with seamless and efficient operations.</p>
@@ -1490,7 +1490,7 @@
                                                                     </div>
                                                                     <div class="work_progress-desc">
                                                                         <p class="Project">
-                                                                            Technosys Labs employs a team of highly
+                                                                            Techsys Technologies employs a team of highly
                                                                             skilled individuals who are
                                                                             knowledgeable about the latest
                                                                             technologies, guaranteeing that our
@@ -1524,7 +1524,7 @@
                                                                     <div class="work_progress-desc"
                                                                         style="margin-top: 35px">
                                                                         <p class="Project">
-                                                                            At Technosys Labs, we put our clients'
+                                                                            At Techsys Technologies, we put our clients'
                                                                             requirements and goals above all else.
                                                                             Our devoted team fosters open
                                                                             communication, tailors solutions to
@@ -1559,7 +1559,7 @@
                                                                     </div>
                                                                     <div class="work_progress-desc">
                                                                         <p class="Project">
-                                                                            Despite its youth, Technosys Labs
+                                                                            Despite its youth, Techsys Technologies
                                                                             approaches each project with a new
                                                                             viewpoint and a desire to innovate. Our
                                                                             dynamic team uses cutting-edge
@@ -1833,7 +1833,7 @@
                                                                         <!-- BLOG TITLE -->
                                                                         <div class="blog-page-title_adn ">
                                                                             <h2><a
-                                                                                    href="https://technosyslabs.com/blog/index.php/technolabsblog/">Identifying
+                                                                                    href="https://Techsys Technologieslabs.com/blog/index.php/technolabsblog/">Identifying
                                                                                     and Addressing Gaps in Your
                                                                                     Cybersecurity Infrastructure</a>
                                                                             </h2>
@@ -1850,7 +1850,7 @@
                                                                         </div>
                                                                         <!-- BLOG BUTTON -->
                                                                         <div class="techno-blog-readmore">
-                                                                            <a href="https://technosyslabs.com/blog/index.php/technolabsblog/"
+                                                                            <a href="https://Techsys Technologieslabs.com/blog/index.php/technolabsblog/"
                                                                                 class="learn_btn">Read More<i
                                                                                     aria-hidden="true"
                                                                                     class="flaticon flaticon-add"></i></a>
@@ -1882,7 +1882,7 @@
                                                                         <!-- BLOG TITLE -->
                                                                         <div class="blog-page-title_adn ">
                                                                             <h2><a
-                                                                                    href="https://technosyslabs.com/blog/index.php/technolabsblog/">Navigating
+                                                                                    href="https://Techsys Technologieslabs.com/blog/index.php/technolabsblog/">Navigating
                                                                                     the Terrain of Generative AI
                                                                                     Risk and Governance</a></h2>
                                                                         </div>
@@ -1899,7 +1899,7 @@
                                                                         </div>
                                                                         <!-- BLOG BUTTON -->
                                                                         <div class="techno-blog-readmore">
-                                                                            <a href="https://technosyslabs.com/blog/index.php/technolabsblog/"
+                                                                            <a href="https://Techsys Technologieslabs.com/blog/index.php/technolabsblog/"
                                                                                 class="learn_btn">Read More<i
                                                                                     aria-hidden="true"
                                                                                     class="flaticon flaticon-add"></i></a>
@@ -1931,7 +1931,7 @@
                                                                         <!-- BLOG TITLE -->
                                                                         <div class="blog-page-title_adn ">
                                                                             <h2><a
-                                                                                    href="https://technosyslabs.com/blog/index.php/technolabsblog/">Navigating
+                                                                                    href="https://Techsys Technologieslabs.com/blog/index.php/technolabsblog/">Navigating
                                                                                     Disaster Recovery Strategies in
                                                                                     Business</a></h2>
                                                                         </div>
@@ -1947,7 +1947,7 @@
                                                                         </div>
                                                                         <!-- BLOG BUTTON -->
                                                                         <div class="techno-blog-readmore">
-                                                                            <a href="https://technosyslabs.com/blog/index.php/technolabsblog/"
+                                                                            <a href="https://Techsys Technologieslabs.com/blog/index.php/technolabsblog/"
                                                                                 class="learn_btn">Read More<i
                                                                                     aria-hidden="true"
                                                                                     class="flaticon flaticon-add"></i></a>

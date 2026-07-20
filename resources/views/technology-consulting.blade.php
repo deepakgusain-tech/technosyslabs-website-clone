@@ -153,7 +153,7 @@
                             <h2 id="ContentPlaceHolder1_divhead">Technology Consulting</h2>
                         </div>
                         <div class="breadcumb-inner">
-                            <p id="ContentPlaceHolder1_divpara">At Technosys Labs, we understand that in today's
+                            <p id="ContentPlaceHolder1_divpara">At Techsys Technologies, we understand that in today's
                                 rapidly evolving digital landscape, businesses need strategic and innovative
                                 technology solutions to stay ahead of the competition.</p>
                         </div>
@@ -241,7 +241,7 @@
                                                             style="text-align:justify">
                                                             <div id="ContentPlaceHolder1_divContent"
                                                                 class="kc-elm kc-css-486867 kc_text_block">
-                                                                <p>At Technosys Labs, we understand that in today's
+                                                                <p>At Techsys Technologies, we understand that in today's
                                                                     rapidly evolving digital landscape, businesses
                                                                     need strategic and innovative technology
                                                                     solutions to stay ahead of the competition. As a
@@ -257,7 +257,7 @@
                                                                     you are looking to optimize your IT
                                                                     infrastructure, enhance cybersecurity measures,
                                                                     or leverage emerging technologies for business
-                                                                    growth, Technosys Labs is here to guide you
+                                                                    growth, Techsys Technologies is here to guide you
                                                                     every step of the way.</p>
                                                             </div>
                                                         </div>

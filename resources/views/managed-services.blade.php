@@ -10,7 +10,7 @@
                 </div>
                 <!-- <p class="text-white mt-4 h3">Try Solodev for Free!</p>-->
 
-                <form method="post" action="https://www.technosyslabs.com/Services.aspx?s=7"
+                <form method="post" action="https://www.Techsys Technologieslabs.com/Services.aspx?s=7"
                     onsubmit="javascript:return WebForm_OnSubmit();" id="Enquiryform">
                     <div class="aspNetHidden">
                         <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
@@ -153,7 +153,7 @@
                             <h2 id="ContentPlaceHolder1_divhead">Managed Services</h2>
                         </div>
                         <div class="breadcumb-inner">
-                            <p id="ContentPlaceHolder1_divpara">At Technosys Labs, we understand that a seamless and
+                            <p id="ContentPlaceHolder1_divpara">At Techsys Technologies, we understand that a seamless and
                                 secure IT infrastructure is crucial for the success of your business.</p>
                         </div>
                     </div>
@@ -240,7 +240,7 @@
                                                             style="text-align:justify">
                                                             <div id="ContentPlaceHolder1_divContent"
                                                                 class="kc-elm kc-css-486867 kc_text_block">
-                                                                <p>At Technosys Labs, we understand that a seamless
+                                                                <p>At Techsys Technologies, we understand that a seamless
                                                                     and secure IT infrastructure is crucial for the
                                                                     success of your business. Our team of skilled
                                                                     professionals is dedicated to providing
@@ -358,7 +358,7 @@
                                                                             </h2>
                                                                         </div>
                                                                         <div class='service-box-desc'>
-                                                                            <p style='text-align:justify'>Technosys
+                                                                            <p style='text-align:justify'>Techsys Technologies
                                                                                 Labs takes cybersecurity seriously.
                                                                                 Our SOC provides advanced threat
                                                                                 detection, incident response, and

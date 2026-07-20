@@ -153,7 +153,7 @@
                             <h2 id="ContentPlaceHolder1_divhead">Database Services</h2>
                         </div>
                         <div class="breadcumb-inner">
-                            <p id="ContentPlaceHolder1_divpara">Technosys Labs understands the critical role
+                            <p id="ContentPlaceHolder1_divpara">Techsys Technologies understands the critical role
                                 databases play in your business operations. Our Database Management Services ensure
                                 the security, reliability.</p>
                         </div>
@@ -241,7 +241,7 @@
                                                             style="text-align:justify">
                                                             <div id="ContentPlaceHolder1_divContent"
                                                                 class="kc-elm kc-css-486867 kc_text_block">
-                                                                <p>Technosys Labs understands the critical role
+                                                                <p>Techsys Technologies understands the critical role
                                                                     databases play in your business operations. Our
                                                                     Database Management Services ensure the
                                                                     security, reliability, and performance of your

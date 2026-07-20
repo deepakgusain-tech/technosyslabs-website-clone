@@ -10,7 +10,7 @@
                 </div>
                 <!-- <p class="text-white mt-4 h3">Try Solodev for Free!</p>-->
 
-                <form method="post" action="https://www.technosyslabs.com/Services.aspx?s=3"
+                <form method="post" action="https://www.Techsys Technologieslabs.com/Services.aspx?s=3"
                     onsubmit="javascript:return WebForm_OnSubmit();" id="Enquiryform">
                     <div class="aspNetHidden">
                         <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
@@ -241,7 +241,7 @@
                                                             style="text-align:justify">
                                                             <div id="ContentPlaceHolder1_divContent"
                                                                 class="kc-elm kc-css-486867 kc_text_block">
-                                                                <p>At Technosys Labs, we drive digital excellence
+                                                                <p>At Techsys Technologies, we drive digital excellence
                                                                     through a holistic suite of Digital
                                                                     Transformation services. As a new age IT and
                                                                     Security Services company, we understand that
@@ -363,7 +363,7 @@
                                                                         </div>
                                                                         <div class='service-box-desc'>
                                                                             <p style='text-align:justify'>Safeguard
-                                                                                your digital assets with Technosys
+                                                                                your digital assets with Techsys Technologies
                                                                                 Labs IT Risk and Assessment
                                                                                 services. We conduct thorough risk
                                                                                 assessments, identifying potential
@@ -396,7 +396,7 @@
                                                                         <div class='service-box-desc'>
                                                                             <p style='text-align:justify'>Forge a
                                                                                 path to success with a robust
-                                                                                Technology Strategy. Technosys Labs
+                                                                                Technology Strategy. Techsys Technologies
                                                                                 combines strategic vision with
                                                                                 effective IT Operations management,
                                                                                 ensuring that your technology aligns
@@ -431,7 +431,7 @@
                                                                         </div>
                                                                         <div class='service-box-desc'>
                                                                             <p style='text-align:justify'>Unlock the
-                                                                                power of the cloud with Technosys
+                                                                                power of the cloud with Techsys Technologies
                                                                                 Labs Cloud Strategy and Advisory
                                                                                 services. We guide you through the
                                                                                 cloud adoption journey, helping you
@@ -462,7 +462,7 @@
                                                                         <div class='service-box-desc'>
                                                                             <p style='text-align:justify'>Transform
                                                                                 your business processes with
-                                                                                Intelligent Automation. Technosys
+                                                                                Intelligent Automation. Techsys Technologies
                                                                                 Labs leverages artificial
                                                                                 intelligence and automation to
                                                                                 streamline repetitive tasks, enhance
@@ -495,7 +495,7 @@
                                                                                 We design and implement robust,
                                                                                 scalable, and secure architectures
                                                                                 that withstand the challenges of the
-                                                                                digital landscape. Technosys Labs
+                                                                                digital landscape. Techsys Technologies
                                                                                 ensures your systems are prepared
                                                                                 for the future, adapting to evolving
                                                                                 technologies and threats.</p>
@@ -530,7 +530,7 @@
                                                                                 Data Analytics solutions. Whether
                                                                                 its customer behavior analysis,
                                                                                 market trends, or operational
-                                                                                metrics, Technosys Labs empowers you
+                                                                                metrics, Techsys Technologies empowers you
                                                                                 to make data-driven decisions.
                                                                                 Leverage the power of analytics for
                                                                                 competitive advantage and strategic

@@ -13,7 +13,7 @@
         document.documentElement.className = document.documentElement.className + ' yes-js js_active js'
     </script>
     <title>
-        Technosys
+        Techsys Technologies
     </title>
     <meta name="robots" content="max-image-preview:large" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
@@ -773,7 +773,7 @@
         }
 
         .mean-container .mean-bar::before {
-            content: "Technosys";
+            content: "Techsys Technologies";
         }
     </style>
     <link rel="stylesheet"
@@ -1887,10 +1887,10 @@
                         <div class="top-address" id="Div1">
                             <p>
                                 <!-- Email -->
-                                <i class="fa fa-envelope-o"></i><a href="mailto:info@technosyslabs.com"
-                                    id="Literal1">info@technosyslabs.com</a>
+                                <i class="fa fa-envelope-o"></i><a href="mailto:info@Techsys Technologieslabs.com"
+                                    id="Literal1">info@Techsys Technologieslabs.com</a>
                                 <!-- Address -->
-                                <i class="fa fa-map"></i><span id="Literal2">30 N Gould St, Ste R, Sheridan, Wyoming 82801</span>
+                                <i class="fa fa-map"></i><span id="Literal2">Sheridan, Wyoming 82801</span>
                                 <!-- Phone -->
                                 <i class="fa fa-phone"></i><a href="tel:919220437682" id="Literal3">+91
                                     9220437682</a>
@@ -1905,15 +1905,15 @@
                                         href="https://www.facebook.com/profile.php?id=61584986437288"
                                         title="Facebook"><i class="fa fa-facebook"></i></a></li>
                                 <li><a class="linkedin social-icon"
-                                        href="https://www.linkedin.com/company/technosyslab/" title="LinkedIn"
+                                        href="https://www.linkedin.com/company/Techsys Technologieslab/" title="LinkedIn"
                                         target="_blank">
                                         <i class="fa fa-linkedin"></i>
                                     </a>
                                 </li>
-                                <li><a class="instagram social-icon" href="https://www.instagram.com/technosyslabs/"
+                                <li><a class="instagram social-icon" href="https://www.instagram.com/Techsys Technologieslabs/"
                                         title="Instagram"><i class="fa fa-instagram"></i></a></li>
                                 <li>
-                                    <a class="twitter social-icon" href="https://x.com/Technosyslabs" title="Twitter"
+                                    <a class="twitter social-icon" href="https://x.com/Techsys Technologieslabs" title="Twitter"
                                         target="_blank"> <i class="fa-brands fa-x-twitter"></i>
                                     </a>
                                 </li>
@@ -1929,8 +1929,8 @@
                 <div class="row">
                     <div class="col-sm-12">
                         <div class="mobile_menu_logo text-center">
-                            <a href="/" title="Technosys">
-                                <img src="wp-content/uploads/2021/02/newlogo.png" alt="Technosys"
+                            <a href="/" title="Techsys Technologies">
+                                <img src="wp-content/uploads/2021/02/newlogo.png" alt="Techsys Technologies"
                                     style="width: 250px;" />
                             </a>
                         </div>
@@ -1946,12 +1946,12 @@
                     <div class="row logo-left align-items-center">
                         <div class="col-md-4 col-sm-6 col-xs-4">
                             <div class="logo">
-                                <a class="main_sticky_main_l standard-logo" href="/" title="Technosys">
-                                    <img src="wp-content/uploads/2021/02/newlogo.png" alt="Technosys"
+                                <a class="main_sticky_main_l standard-logo" href="/" title="Techsys Technologies">
+                                    <img src="wp-content/uploads/2021/02/newlogo.png" alt="Techsys Technologies"
                                         style="width: 250px;" />
                                 </a>
-                                <a class="main_sticky_l" href="/" title="Technosys">
-                                    <img src="wp-content/uploads/2021/02/newlogo.png" alt="Technosys"
+                                <a class="main_sticky_l" href="/" title="Techsys Technologies">
+                                    <img src="wp-content/uploads/2021/02/newlogo.png" alt="Techsys Technologies"
                                         style="width: 250px;" />
                                 </a>
                             </div>
@@ -2325,7 +2325,7 @@
                             <ul class="sub-menu">
                                 <li id="menu-item-7943"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7943"><a
-                                        href="https://technosyslabs.com/blog/index.php/technolabsblog/">Blogs</a></li>
+                                        href="https://Techsys Technologieslabs.com/blog/index.php/technolabsblog/">Blogs</a></li>
                             </ul>
                         </li>
                         <li id="Li16"
@@ -2421,7 +2421,7 @@
                                                                 <span class="elementor-grid-item"
                                                                     style="background-color:#d66010">
                                                                     <a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin"
-                                                                        href="https://www.linkedin.com/company/technosyslab/"
+                                                                        href="https://www.linkedin.com/company/Techsys Technologieslab/"
                                                                         rel="nofollow" target="_blank"
                                                                         style="background-color:#d66010"> <span
                                                                             class="elementor-screen-only">LinkedIn</span>
@@ -2430,7 +2430,7 @@
                                                                 <span class="elementor-grid-item"
                                                                     style="background-color: #d66010">
                                                                     <a class="elementor-icon elementor-social-icon elementor-social-icon-flaticon-instagram-logo elementor-repeater-item-ef9ad52"
-                                                                        href="https://www.instagram.com/technosyslabs/"
+                                                                        href="https://www.instagram.com/Techsys Technologieslabs/"
                                                                         rel="nofollow"
                                                                         style="background-color: #d66010">
                                                                         <span
@@ -2442,7 +2442,7 @@
                                                                 <span class="elementor-grid-item"
                                                                     style="background-color: #d66010">
                                                                     <a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-ef171ba"
-                                                                        href="https://x.com/Technosyslabs"
+                                                                        href="https://x.com/Techsys Technologieslabs"
                                                                         rel="nofollow" target="_blank"
                                                                         style="background-color: #d66010"> <span
                                                                             class="elementor-screen-only">Twitter</span>
@@ -2665,7 +2665,7 @@
                                                                         <span>
                                                                             <dl>
                                                                                 <dt></dt>
-                                                                                <dd>info@technosyslabs.com</dd>
+                                                                                <dd>info@Techsys Technologieslabs.com</dd>
                                                                             </dl>
                                                                             </dl>
                                                                         </span>
@@ -3491,6 +3491,6 @@
             };
         </script>
 </body>
-<!-- Mirrored from www.technosyslabs.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 09 Jul 2026 07:21:49 GMT -->
+<!-- Mirrored from www.Techsys Technologieslabs.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 09 Jul 2026 07:21:49 GMT -->
 
 </html>
