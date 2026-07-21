@@ -1869,7 +1869,7 @@
 </head>
 <!-- Whatsapp Sticky -->
 <div class="sn_whatsup">
-    <a href="https://wa.me/9220437682" target="_blank">
+    <a href="https://wa.me/+ (302) 283-9007" target="_blank">
         <img src="wp-content/images/w5.png" width="50px">
     </a>
 </div>
@@ -1883,22 +1883,21 @@
                 <!-- STYLE 1 LEFT ADDRESS RIGHT ICON  -->
                 <div class="row">
                     <!-- TOP LEFT -->
-                    <div class="col-xs-12 col-md-9 col-sm-9">
+                    <div class="col-xs-12 col-md-10 col-sm-10">
                         <div class="top-address" id="Div1">
                             <p>
                                 <!-- Email -->
-                                <i class="fa fa-envelope-o"></i><a href="mailto:info@technosyslabs.com"
-                                    id="Literal1">info@technosyslabs.com</a>
+                                <i class="fa fa-envelope-o"></i><a href="mailto:info@techsystechnologies.org"
+                                    id="Literal1">info@techsystechnologies.org</a>
                                 <!-- Address -->
                                 <i class="fa fa-map"></i><span id="Literal2">AltF 30 N Gould St, Ste R, Sheridan, Wyoming, USA 82801</span>
                                 <!-- Phone -->
-                                <i class="fa fa-phone"></i><a href="tel:919220437682" id="Literal3">+91
-                                    9220437682</a>
+                                <i class="fa fa-phone"></i><a href="tel:+ (302) 283-9007" id="Literal3">+1 (302) 283-9007</a>
                             </p>
                         </div>
                     </div>
                     <!-- TOP RIGHT -->
-                    <div class="col-xs-12 col-md-3 col-sm-3">
+                    <div class="col-xs-12 col-md-2 col-sm-2">
                         <div class="top-right-menu">
                             <ul class="social-icons text-right">
                                 <li><a class="facebook social-icon"
@@ -2665,7 +2664,9 @@
                                                                         <span>
                                                                             <dl>
                                                                                 <dt></dt>
-                                                                                <dd>info@technosyslabs.com</dd>
+                                                                                <dd>info@techsystechnologies.org</dd>
+                                                                                <dd>info@techsystechnologies.org</dd>
+
                                                                             </dl>
                                                                             </dl>
                                                                         </span>
@@ -2694,7 +2695,7 @@
                                                                         <span>
                                                                             <dl class='offset-top-0'>
                                                                                 <dt> </dt>
-                                                                                <dd>+91 9220437682</dd>
+                                                                                <dd>+1 (302) 283-9007</dd>
                                                                             </dl>
                                                                         </span>
                                                                     </div>

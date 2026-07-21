@@ -330,12 +330,14 @@
                                                         <div class="description" style="color: black;">
                                                             <dl>
                                                                 <dt></dt>
-                                                                <dd>info@technosyslabs.com</dd>
+                                                                <dd>info@techsystechnologies.org</dd>
+                                                                <dd>jhon@techsystechnologies.org</dd>
+
                                                             </dl>
                                                             <dl class='offset-top-0'>
                                                                 <dt></dt>
                                                                 <div style='display: inline-block; margin-right: 5px;'>
-                                                                    +91 9220437682</div>
+                                                                    +1 (302) 283-9007</div>
                                                             </dl>
                                                         </div>
 
