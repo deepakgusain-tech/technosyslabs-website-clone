@@ -1265,6 +1265,247 @@
         }
     </script>
     <style>
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: transparent;
+        }
+
+        .site-content {
+            display: flex;
+        }
+
+        .entry-header,
+        .site-content {
+            word-wrap: break-word;
+        }
+
+        h1.entry-title {
+            display: var(--page-title-display);
+        }
+
+
+        .entry-title {
+            margin-bottom: 0;
+        }
+
+        h1 {
+            font-size: 40px;
+            font-weight: 500;
+        }
+
+        .entry-meta {
+            color: var(--contrast-2);
+            font-size: 85%;
+            margin-top: .5em;
+            line-height: 1.5;
+        }
+
+        .entry-header,
+        .site-content {
+            word-wrap: break-word;
+        }
+
+        .sidebar .widget {
+            background-color: transparent;
+        }
+
+        .page-header,
+        .sidebar .widget,
+        .site-main>* {
+            margin-bottom: 20px;
+        }
+
+        .widget-area .widget {
+            padding: 40px;
+        }
+
+        .wp-block-search__inside-wrapper {
+            display: flex;
+            flex-wrap: nowrap;
+            max-width: 80%;
+            gap: 10px;
+        }
+
+        .wp-block-search__label {
+            width: 100%;
+        }
+
+        label {
+            color: #616161;
+            cursor: pointer;
+            margin-bottom: 10px;
+        }
+
+        label {
+            display: inline-block;
+            margin-bottom: .5rem;
+        }
+
+        label {
+            font-weight: 600;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #222222;
+            background-color: var(--base-2);
+            border-color: var(--base);
+        }
+
+        input[type=email],
+        input[type=number],
+        input[type=password],
+        input[type=search],
+        input[type=tel],
+        input[type=text],
+        input[type=url],
+        select,
+        textarea {
+            border: 1px solid;
+            border-radius: 0;
+            padding: 10px 15px;
+            max-width: 100%;
+        }
+
+        [type=search] {
+            outline-offset: -2px;
+            -webkit-appearance: none;
+        }
+
+        .wp-block-group {
+            box-sizing: border-box;
+        }
+
+        h2 {
+            font-size: 35px;
+            margin-bottom: 10px;
+        }
+
+        .wp-block-latest-posts.wp-block-latest-posts__list {
+            list-style: none;
+        }
+
+        .widget ol,
+        .widget ul {
+            margin: 0;
+        }
+
+        .wp-block-latest-posts__list wp-block-latest-posts {
+            list-style: none !important;
+        }
+
+        .wp-block-latest-posts__post-title {
+            display: block;
+            margin-bottom: 20px;
+            text-decoration: none;
+
+        }
+
+        .wp-block-latest-posts__post-title:hover {
+            color: blue;
+
+        }
+
+        footer.entry-meta {
+            margin-top: 2em;
+        }
+
+        .entry-meta {
+            color: #575760;
+        }
+
+        .entry-meta {
+            font-size: 85%;
+            margin-top: .5em;
+            line-height: 1.5;
+        }
+
+        .cat-links,
+        .comments-link,
+        .tags-links {
+            display: block;
+        }
+
+        .entry-meta .gp-icon {
+            margin-right: .6em;
+            opacity: .7;
+        }
+
+        .gp-icon {
+            display: inline-flex;
+            align-self: center;
+        }
+
+        elementor-screen-only,
+        .screen-reader-text,
+        .screen-reader-text span,
+        .ui-helper-hidden-accessible {
+            position: absolute;
+            top: -10000em;
+            width: 1px;
+            height: 1px;
+            margin: -1px;
+            padding: 0;
+            overflow: hidden;
+            clip: rect(0, 0, 0, 0);
+            border: 0;
+        }
+
+        .screen-reader-text {
+            clip: rect(1px, 1px, 1px, 1px);
+            height: 1px;
+            overflow: hidden;
+            position: absolute !important;
+            width: 1px;
+            word-wrap: normal !important;
+        }
+
+        .site-main .post-navigation {
+            margin-bottom: 0;
+        }
+
+        .site-main .comment-navigation,
+        .site-main .post-navigation,
+        .site-main .posts-navigation {
+            margin: 0 0 2em;
+            overflow: hidden;
+        }
+
+        h3 {
+            font-size: 28px;
+        }
+
+        .comment-form input,
+        .comment-form-comment {
+            margin-bottom: 10px;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #222222;
+            background-color: #f7f8f9;
+            border-color: #f0f0f0;
+        }
+    </style>
+    <style>
         /* Wrapper */
         #rev_slider_21_1_wrapper {
             width: 100% !important;
@@ -1614,10 +1855,7 @@
             color: var(--contrast-2);
         }
 
-        .sidebar .widget {
-            background-color: var(--base-3);
-        }
-
+       
         .footer-widgets {
             background-color: var(--base-3);
         }
@@ -1855,6 +2093,10 @@
         }
 
         /*# sourceURL=generate-style-inline-css */
+
+        .separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .one-container .container, .separate-containers .paging {
+            background:transparent;
+        }
     </style>
 
     <link rel='stylesheet' id='elementor-frontend-css'
@@ -2665,7 +2907,7 @@
                                                                             <dl>
                                                                                 <dt></dt>
                                                                                 <dd>info@techsystechnologies.org</dd>
-                                                                                <dd>info@techsystechnologies.org</dd>
+                                                                                <dd>john@techsystechnologies.org</dd>
 
                                                                             </dl>
                                                                             </dl>

@@ -331,7 +331,7 @@
                                                             <dl>
                                                                 <dt></dt>
                                                                 <dd>info@techsystechnologies.org</dd>
-                                                                <dd>jhon@techsystechnologies.org</dd>
+                                                                <dd>john@techsystechnologies.org</dd>
 
                                                             </dl>
                                                             <dl class='offset-top-0'>

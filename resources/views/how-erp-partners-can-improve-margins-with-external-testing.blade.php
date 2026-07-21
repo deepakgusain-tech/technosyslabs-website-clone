@@ -1,6 +1,7 @@
 @extends('layouts.master')
 
 @section('main')
+
      <a class="screen-reader-text skip-link" href="#content" title="Skip to content">Skip to content</a>
         <div class="site grid-container container hfeed" id="page">
             <div class="site-content" id="content">
